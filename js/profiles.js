@@ -41,6 +41,14 @@ let profiles = [
     email: "paul.pace@queensu.ca",
     linkedin: "https://www.linkedin.com/in/paulius-pace-b9840413a/",
   },
+  {
+    name: "Mahika Nasa",
+    image_path: "images/profile_photos/MahikaNasa.jpg",
+    team: "",
+    position: "Business Manager",
+    email: "mahika.nasa@queensu.ca",
+    linkedin: "https://www.linkedin.com/in/mahikanasa/",
+  },
 ];
 
 var profilesHTML = "";
